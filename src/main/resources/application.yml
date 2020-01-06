@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://47.95.215.116:3306/clouddisk?useUnicode=true
+    username: root
+    password: zzzqaz0wsx0
+    driver-class-name: com.mysql.jdbc.Driver
